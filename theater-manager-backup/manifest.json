@@ -1,0 +1,17 @@
+{
+  "isChunked": true,
+  "version": 6,
+  "theme": "dark",
+  "settings": {
+    "favoriteOnTop": true,
+    "favoritesPageSort": true,
+    "allPageSort": true
+  },
+  "categories": [],
+  "folders": [],
+  "totalPrompts": 357,
+  "totalMemories": 14,
+  "promptChunksCount": 9,
+  "memoryChunksCount": 2,
+  "timestamp": 1789500256669
+}
