@@ -139,5 +139,15 @@
     "useCount": 0,
     "createdAt": 1789586315358,
     "updatedAt": 1789586315358
+  },
+  {
+    "id": "mu4hibgesvl427gfyon",
+    "title": "# 还是瞒着老婆去偷吃了",
+    "content": "暂停正文剧情，生成一个番外，要求如下：假设{{user}}让{{char}}陪自己去染头发，{{char}}偷偷跑出去大吃了一顿又溜了回来。{{user}}结束后问{{char}}饿不饿，{{char}}出于种种原因隐瞒了偷吃过的事实，而之后{{user}}带{{char}}去的地方就是刚刚{{char}}大吃过的地方，{{char}}偷吃的事会被发现吗？是当场发现还是回家后发现呢？{{user}}会有什么反应呢？。要求风格幽默轻松，字数不低于3000字",
+    "category": [],
+    "favorite": false,
+    "useCount": 0,
+    "createdAt": 1789586353022,
+    "updatedAt": 1789586353022
   }
 ]
