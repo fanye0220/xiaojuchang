@@ -5,13 +5,13 @@
   "settings": {
     "favoriteOnTop": true,
     "favoritesPageSort": true,
-    "allPageSort": true
+    "allPageSort": false
   },
   "categories": [],
   "folders": [],
-  "totalPrompts": 370,
-  "totalMemories": 14,
-  "promptChunksCount": 10,
-  "memoryChunksCount": 2,
-  "timestamp": 1789577611850
+  "totalPrompts": 0,
+  "totalMemories": 1,
+  "promptChunksCount": 1,
+  "memoryChunksCount": 1,
+  "timestamp": 1789579217016
 }
