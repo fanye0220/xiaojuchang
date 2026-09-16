@@ -5,7 +5,7 @@
   "settings": {
     "favoriteOnTop": true,
     "favoritesPageSort": true,
-    "allPageSort": false
+    "allPageSort": true
   },
   "categories": [],
   "folders": [],
@@ -13,5 +13,5 @@
   "totalMemories": 8,
   "promptChunksCount": 1,
   "memoryChunksCount": 1,
-  "timestamp": 1789579533122
+  "timestamp": 1789579542674
 }
