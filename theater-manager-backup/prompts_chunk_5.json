@@ -48,9 +48,10 @@
     "content": "现在暂停当前剧情，帮我生成一个“金丝雀”番外小剧场不计入主线，不需要状态栏。背景是两个人在一起后，user太无聊了，在网上刷到金丝雀的图片就想养一只，不知道为什么被char知道后，char每天回家有意无意勾引user注意力，有一天char忍不住了就问user你是不是在外边养金丝雀了，user一愣回答你怎么知道。\n严格遵循user和char设定，不得ooc，文风轻松幽默搞笑，文笔细腻，不得少于1w字。",
     "category": [],
     "favorite": false,
-    "useCount": 0,
+    "useCount": 1,
     "createdAt": 1778181064686,
-    "updatedAt": 1778181064686
+    "updatedAt": 1778181064686,
+    "lastUsed": 1789660463695
   },
   {
     "id": "movv4ef0435zwxjzmh7",
@@ -90,10 +91,10 @@
     "content": "现在暂停当前剧情，生成一个“free use项链”的番外。<char>送了<user>一条项链，约好只要{{user}}戴着这个项链，就代表{{user}}是供{{char}}“free use”的状态，不管什么场合什么时候{{char}}都可以对{{user}}做任何事情。至少描写5个<user>戴了项链的场景，nsfw情节要大胆直白，允许睡奸、半公开、cnc、角色扮演等等场景，严格遵守<char>和<user>的人物设定，不少于8000字。",
     "category": [],
     "favorite": false,
-    "useCount": 5,
+    "useCount": 6,
     "createdAt": 1778835058896,
     "updatedAt": 1778835058896,
-    "lastUsed": 1780102419324
+    "lastUsed": 1789599517668
   },
   {
     "id": "mp6ohu2ab4yi3hx4qgw",
