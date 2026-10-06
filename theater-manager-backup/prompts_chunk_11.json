@@ -80,5 +80,15 @@
     "useCount": 0,
     "createdAt": 1791289513096,
     "updatedAt": 1791289513096
+  },
+  {
+    "id": "muwnk3zzmd4mttw52g",
+    "title": "遗愿清单user版",
+    "content": "现在立即停止正文输出，仅输出以下番外：{{user}}因为一些意外去世了，在{{user}}去世之前曾经写下过一次愿望清单，{{user}}告诉{{char}}如果他能够帮自己把愿望清单里面的愿望都实现一遍，自己就会也实现{{char}}一个无条件的要求。但是在所有愿望实现之前，{{user}}已经死掉了，{{char}}开始按照清单实现{{user}}剩下的十个愿望。请使用标准的 HTML5 和 CSS 代码美化，写出{{char}}的十篇愿望实现日记。每篇不少于300字。",
+    "category": [],
+    "favorite": false,
+    "useCount": 0,
+    "createdAt": 1791289567295,
+    "updatedAt": 1791289567295
   }
 ]
